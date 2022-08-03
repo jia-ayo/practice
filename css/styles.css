@@ -127,6 +127,10 @@ p{
 .works{
     text-align: right;
 }
+a{
+    text-decoration: none;
+    color: darkgray;
+}
 ul{
     position: relative;
     margin: 0 auto;
